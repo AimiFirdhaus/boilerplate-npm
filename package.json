@@ -12,5 +12,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"description": "Huh hahaha"
+	"description": "Huh hahaha",
+	"keywords": ["freecodecamp", "lol", "lul"]
 }
