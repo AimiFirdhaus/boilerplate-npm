@@ -13,5 +13,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"description": "Huh hahaha",
-	"keywords": ["freecodecamp", "lol", "lul"]
+	"keywords": ["freecodecamp", "lol", "lul"],
+	"license": "MIT"
 }
