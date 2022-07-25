@@ -14,5 +14,6 @@
 	},
 	"description": "Huh hahaha",
 	"keywords": ["freecodecamp", "lol", "lul"],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "1.2.3"
 }
