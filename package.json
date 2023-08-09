@@ -11,5 +11,9 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"description": "Huh hahaha",
+	"keywords": ["freecodecamp", "lol", "lul"],
+	"license": "MIT",
+	"version": "1.2.3"
 }
